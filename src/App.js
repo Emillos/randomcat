@@ -3,7 +3,7 @@ import './App.css';
 
 const tasks = [
   'Vandfald',
-  'Giv et blowjob',
+  'Giv 1 ud',
   'Reglkort',
   'Tissekort',
   '7 kabale',
